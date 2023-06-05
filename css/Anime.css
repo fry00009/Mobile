@@ -1,0 +1,350 @@
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.Header {
+  position: relative;
+  top:5px;
+  height:0%;
+  padding-bottom: 2%;
+  text-align: center;
+  width:100%;
+  font-size:8vw;
+  font-weight: bold;
+  color:white;
+}
+
+.Text {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+.Black {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.BlackT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+
+.Chainsaw {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.ChainsawT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+
+.Classroom {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.ClassroomT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+.DemonSlayer {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.DemonSlayerT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+.FateStay {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.FateStayT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+.FireForce {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.FireForceT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+.Goblin {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.GoblinT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+
+.Gurren {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.GurrenT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+.Haikyu {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.HaikyuT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+
+.JJK {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.JJKT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.Lovers {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.LoversT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.MHA {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.MHAT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.Promised {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.PromisedT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.Spy {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.SpyT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.Sword {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.SwordT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
+.Slime {
+  position: relative;
+  top:0px;
+  width:auto;
+  text-align:center;
+  color:white;
+  font-size:24px;
+}
+
+.SlimeT {
+  position: absolute;
+  text-align: center;
+  -webkit-text-stroke: 2px black;
+  width:100%;
+  top:45%;
+  color:white;
+  font-size:5vw;
+  font-weight: bold;
+}
